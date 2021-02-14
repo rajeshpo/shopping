@@ -1,0 +1,89 @@
+*{
+    margin:0px;
+    padding:0px
+}
+
+.Nav-div{
+    height:70px;
+    width:100%;
+    background-color: bisque;
+     }
+ h3{
+  line-height: 70px;
+  display: inline;
+  color:gray;
+  font-size: 30px;
+  margin-left:30px;
+ }
+ .searchBox{
+    height:45px;
+    width:70%;
+    /* background-color: rgb(207, 16, 16); */
+    display: inline-block;
+    margin-left: 50px;
+    vertical-align: middle;
+    margin-bottom: 10px;;
+ }
+ .input{
+     height:40px;
+     width: 100%;
+     text-indent: 30px;
+     
+ }
+ .products{
+     height:auto;
+     width:100%;
+     background-color:lightgray; 
+     margin-bottom: 20px;
+
+ }
+ .product-wrapper{
+    height:auto;
+    width:70%;
+    /* background-color: springgreen; */
+    margin-left:15%;
+   
+     
+
+}
+.product{
+    height:370px;
+    width:23.2%;
+    /* background-color: aqua; */
+    justify-content: space-around;
+    display: inline-block;
+    margin-left: 65px;
+    text-align: center;
+    margin-top:25px;
+    border: 1px solid black;
+    border-radius: 10px;
+    
+}
+ .productimg{
+      
+     height:220px;
+     width:100%;
+     overflow:hidden;
+     border-radius: 10px;   
+  
+ }
+ h4,p{
+     text-align: left;
+     font-size:small;
+     margin-left:5px;
+     margin-top:8px;
+      
+ }
+ button{
+     padding: 5px;
+     margin-top: 7.8px;
+     border-radius: 2px;
+     color:black;
+    border-radius: 3px;;
+     margin-left: -6px;;
+ }
+ .head{
+     text-align:center;
+    font-size: 70px;
+    margin-top:20px
+ }
